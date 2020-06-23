@@ -1,6 +1,12 @@
 # Refactoring
 ![](https://trello-attachments.s3.amazonaws.com/571faf90b064481105918013/381x499/831b674fcbb9899afad8cd81b8f82778/41LBzpPXCOL._SX379_BO1%2C204%2C203%2C200_.jpg)
 
+## Status
+**Reading**
+
+## Recap
+ToDo when done
+
 ## Notes
 - Great quote that sums up a great way to approach coding:
 
@@ -21,3 +27,23 @@
 - *But most of the time, rerunning a loop like this has a neglibible effect on performance.*
 
     I struggle a bit with this one but it's probably true. I've always been taught do everything you can in a single loop. But he's pushing that if you are doing multiple things in a single loop it is a ton easier to split it into multiple loops. At what point does this become too many loops though. What if you have 5 things you need to do in that loop? I find this one a bit strange but if there are steps farther that then take this code down to a very simple thing to read I can see the gain but until then I'm not a fan.
+
+- *I prefer to treat data as immutable as much as I can - mutable state quickly becomes something rotten.* (pg27)
+
+- *Always leave the code base healthier than when you found it. It will never be perfect, but it should be better.* (pg34)
+
+- **06/22/20 Night's Reflection:** When doing a refactor it is important to take small steps over and over again. After each small step you test to make sure everything is still working and then you move on. With each step you are also freeing up your brain and the code to make it easier to move around. I see this as a sort of puzzle piece you're turning pushing trying and things slowly get rearranged and then come back together. You can be wrong and tweak it some more but eventually you get things together.
+
+    *But it's kinder to my future self to leave a toumbstone.* (pg40)
+        
+        Why? Don't you want it gone forever so you don't want to ever think about it again? I find this statement a little strange but I guess if you are use to your coding methods or worried it will pop up again / wonder why you didn't try to do it a certain way it can be left as a warning / acknoledgement of what it use to be (I still feel that'd be captured in version control).
+    
+    *the true test of good code is how easy it is to change it.* (pg43)
+    
+    *the rhythm of refactoring* (pg44)
+
+    *The key to effective refactoring is recognizing that you go faster when you take tiny steps, the code is never broken, and you can compose those small steps into substantial changes.* (pg44)
+
+        Points to a heavy need of having great tests.
+
+    

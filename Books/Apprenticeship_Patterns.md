@@ -1,6 +1,8 @@
 # Apprenticeship Patterns
 ![](https://trello-attachments.s3.amazonaws.com/5e79665409a1441d59379bf4/381x499/4355809c18165a1efa929eb124087504/51V7q9LdBkL._SX379_BO1%2C204%2C203%2C200_.jpg)
 
+## Status
+**Read** June 2020
 
 ## Patterns
 - A Different Road
