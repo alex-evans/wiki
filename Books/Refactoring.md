@@ -44,6 +44,26 @@ ToDo when done
 
     *The key to effective refactoring is recognizing that you go faster when you take tiny steps, the code is never broken, and you can compose those small steps into substantial changes.* (pg44)
 
-        Points to a heavy need of having great tests.
+    Points to a heavy need of having great tests.
 
-    
+- **06/24/20 Night's Reflections:** The wearing two hats made a lot of sense to me and has a bit of the TDD to it but it's more of instead of *red, yellow, green (repeat)* it is *red, yellow, red, yellow, red, yellow, green (repeat)*. It also hit me that he is really saying the outcome does not change (for the most part). Seeing a bug, make note of it but don't fix it until you're out of the refactoring mode. I like the idea of design of code improving over time. It is a break from the waterfall, get everything right the first time (slow / never right), approach. Even good code needs refactoring over time. Long term refactoring seems to actually need a goal in mind as well. Improve the code / add feature but give more time to refactor as you do it.
+
+    **Refactoring** *(noun): a change made to the internal structure of software to make it easier to understand and cheaper to modify without changing its obserable behavior.*
+
+    **Refactoring** *(verb): to restructure software by applying a series of refactorings without changing its observable behavior.*
+
+    *So I might spend a couple of hours refactoring, during which I would apply a few dozen individual refactorings.*
+
+    *Maudite* = beer (I think)
+
+    *"I'm not a great programmer; I'm just a good programmer with great habits." - Kent Beck*
+
+    *Refactoring helps me develop code more quickly*
+
+    *Design Stamina Hypothesis [mf-dsh]: By putting our effort into a good internal design, we increase the stamina of the software effort, allowing us to go faster for longer.*
+
+    *by refactoring I move the understanding from my head into the code itself.*
+
+    *I don't put time on my plans to do refactoring; most refactoring happens while I'm doing other things.*
+
+    *"for each desired change, make the change easy (warning: this may be hard), then make the easy change" - Kent Beck*
