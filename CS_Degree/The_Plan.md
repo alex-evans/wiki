@@ -10,7 +10,7 @@ Inspired by [Teach Yourself Computer Science](https://teachyourselfcs.com/) this
 - [freeCodeCamp](https://www.freecodecamp.org/)
 
 ## Plan
-Work through each course recommended for a CS self learning progression. Give each course 2 months of time to focus in on a topic. While working through it I will write my notes on what I'm learning and at the end I'll write up a summary of what I learned. I'll keep everything under the CS_Degree Wiki page.
+Work through each course recommended for a CS self learning progression. While working through it I will write my notes on what I'm learning and at the end I'll write up a summary of what I learned. I'll keep everything under the CS_Degree Wiki page.
 
 ## Courses
 - Programming
