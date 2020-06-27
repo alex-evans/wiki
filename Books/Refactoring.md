@@ -67,3 +67,23 @@ ToDo when done
     *I don't put time on my plans to do refactoring; most refactoring happens while I'm doing other things.*
 
     *"for each desired change, make the change easy (warning: this may be hard), then make the easy change" - Kent Beck*
+
+- **06/26/20 Night's Relfections:** This portion really hammered home the need for tests. Without tests you can't really refactor and without refactoring you're stuck with whatever popped into your head originally that solved the problem. This usually means way too much code and code that is unreadable. He made a point that refactoring needs to just be a part of how you produce code. It's never a question, it's how you get things done. There's no question on if we just get something done or do we spend time on refactoring, we just do it. This will make us faster in the long run. If you have a manager or company that doesn't support or understand that than you just don't tell them, you build it into your coding process and in the long run you are actually faster. He also had some good points on how to as a team handle refactoring if you're working in branches. Really if you're all running off in your own branch and not bringing code back together until it's done you're going to have a mess. He suggests every day doing a integration (not just a merge but pull and push all code changes). This would keep the master branch full of everyone's current on going changes. You might have to use feature off/on switches but it'll keep the code stronger in the long run. Interesting stuff, and probably not something I'd push on my team currently but something to keep in the back of my mind as the team grows. Right now the team is so focused on different pieces of code that we don't hit many issues with this. I wonder what size team this eventually becomes a problem. Even back when Tom and I were both working on Meditech code we rarely hit eachother in the same code. 
+
+    *I can only think of so many good ideas in a week. Having other people contribute makes my life easier, so I always look for reviews.*
+
+    We are lacking reviews currently at work. Something to remind myself is this quote.
+
+    *I'm being paid for my experties in programming new capabilities fast, and the fastest way is by refactoring - therefore I refactor.*
+
+    *We refactor because it makes us faster - faster to add features, faster to fix bugs. It's important to keep that in front of your mind and in front of communication with others.*
+
+    *With CI, each team member integrates with mainline at least once per day.*
+
+    *You should also consider the objective evidence [Forsgren et al.] that teams that use CI are more effective in software delivery.*
+
+    I made note of this about CI but more in the sense that teams that are touching the same code need to constantly integrate their code back into master (daily).
+
+    *This means that in most cases, if I want to refactor, I need to have self-testing code [mt-stc].*
+
+    *Working Effectively with Legacy Code [Feathers]* Future book to possibly consider
