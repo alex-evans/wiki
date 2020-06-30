@@ -87,3 +87,17 @@ ToDo when done
     *This means that in most cases, if I want to refactor, I need to have self-testing code [mt-stc].*
 
     *Working Effectively with Legacy Code [Feathers]* Future book to possibly consider
+
+- **06/29/20 Night's Relfections:** Some history given in these pages but the main things I pulled from it are reenforcing some earlier comments. Refactoring speeds you up. Not initially but cleaner clearer code is easier to work with which makes it easier and faster to code updates. One of these things that is easier to update is performance. That's why you should focus on performance only after focusing on refactoring. Refactoring may hurt performance but it makes it easier to improve performance.
+
+    *Adopting yagni* [You aren't going to need it] *doesn't mean I neglect all upfront architectual thinking. ... All this has led to a growing discipline of evolutionary architecture [Ford et al.] where architects explore the patterns and practices that take advantage of our ability to iterate over architectural decisions.*
+
+    *but in reality most "agile" projects only use the name. To really operate in an agile way a team has to be capable and enthusiastic refactorers* I wonder if we will ever get to a point where in reality most projects are actually "agile" beyond just name.
+
+    *self-testing code, continuous integrations, and refactoring.* These are the three things to focus on.
+
+    *This is because it's easier to change a simple system than one that has lots of speculative flexibility included*
+
+    *The lesson is: Even if you know exactly what is going on in your system, measure performance, don't speculate.*
+
+    *Profiling ensures I spend that time on the right place*
