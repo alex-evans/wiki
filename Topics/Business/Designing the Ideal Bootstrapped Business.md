@@ -69,4 +69,9 @@ Answers to not deal with this change
 - Raise prices
 - Raise money (then what was the point of bootstrapping)
 
+This all beats not doing all of this. Remember that. But be aware of this. What do you want out of this whole process? What is fullfiling to you? Success leads to this difficult problem. Make sure you keep an eye on it and talk to others about it. It's a problem you hope for.
 
+What's the hardest thing to do?
+- Know thy self
+What's the easiest thing to do?
+- Give advice
