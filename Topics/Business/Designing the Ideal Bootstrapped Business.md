@@ -34,7 +34,7 @@
 
 - Business to Business!!!!
 
-- There's no money in it (consumers are too price focused)
+- There's no money in B2C (consumers are too price focused)
 
 - No temporary pain (weddings / events)
 
@@ -42,4 +42,31 @@
 
 - Tied to financial cycles
 
+- Avoid marketplace
+
+- Good market = Something that can be done
+
+- Be in a big market
+
 -----------------
+
+How do you get Customers
+
+- Social media is not great (lots of time with very little payback)
+
+- Pay per click = Monthly Revenue / 25 (there's a whole algorithm here to figure out how to get this #)
+
+------------------
+
+The Squeeze
+
+- If everything works, things keep growing. If it keeps growing and you don't hire more people you'll have bad customer support. So you hire people. Which changes your job.
+
+Answers to not deal with this change
+- Sell before it's too big (tough and you usually don't get much money)
+- Sell to partners
+- Sell to the biggest customer
+- Raise prices
+- Raise money (then what was the point of bootstrapping)
+
+
