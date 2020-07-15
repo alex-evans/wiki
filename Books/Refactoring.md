@@ -2,10 +2,12 @@
 ![](https://trello-attachments.s3.amazonaws.com/571faf90b064481105918013/381x499/831b674fcbb9899afad8cd81b8f82778/41LBzpPXCOL._SX379_BO1%2C204%2C203%2C200_.jpg)
 
 ## Status
-**Reading**
+**Done**
 
 ## Recap
-ToDo when done
+I really liked this book. Has a lot of great things that hopefully will stick with me. The main thing that keeps popping into my head while I'm working is the wearing the hat first that does that coding / creating testing side of things, create what you need there and then flip to the refactoring hat that keeps the tests passing but improves the code readability. Doing this constantly can go a long way and I think has already helped me with my code. Tests are a key part of refactoring and I think that's what has made my code so brittle before. I need tests so that I can confidently and quickly refactor. And I highly agree and have already felt it that refactoring makes you faster. Not initially but soon enough as you're handling bugs and other stuff dealing with refactored code is always way faster.
+
+All in all highly recommend this book and really happy I spent time with it.
 
 ## Notes
 - Great quote that sums up a great way to approach coding:
@@ -101,3 +103,13 @@ ToDo when done
     *The lesson is: Even if you know exactly what is going on in your system, measure performance, don't speculate.*
 
     *Profiling ensures I spend that time on the right place*
+
+- **07/14/20 Night's Reflections:** Finished it up tonight (at least the stuff I'm going to read. I stopped at the catalog stuff, good stuff in there I'm sure too). This section was about testing and I mainly skimmed through it. I've been thinking a lot about my testing lately and I need to improve on it a lot so I mainly just wanted to make sure he was saying the things that stuck out to me that need to happen. And they did. He had some good quotes to keep in mind while doing testing.
+
+
+    *... trying to write too many tests usually leads to not writing enough.* Very true
+
+    *My focus is to test the areas that I'm most worried about going wrong.*
+
+    *An important habit to get into is to respond to a bug by first writing a test that clearly reveals the bug.* This is a great idea and something I'll keep thinking about and trying out. It'll help show holes in the testing suite.
+

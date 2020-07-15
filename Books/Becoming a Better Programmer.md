@@ -2,7 +2,7 @@
 ![](https://trello-attachments.s3.amazonaws.com/5e79661736f72e5f91858381/381x499/5207a4611492d4411ab4be88c01fa876/51nMPTIUJGL._SX379_BO1%2C204%2C203%2C200_.jpg)
 
 ## Status
-**Reading**
+**Done**
 
 ## Notes
 - *To write good code, you have to care about it. To become a better programmer you must invest time and effort.* (pg14)
