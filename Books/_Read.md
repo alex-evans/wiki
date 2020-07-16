@@ -3,7 +3,7 @@
 
 
 ## Currently Reading
-- Start Marketing The Day You Start Coding
+- [Start Marketing The Day You Start Coding](https://robwalling.com/)
 - [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c9229d8c79cf8044b3f467dcf7fc3354)
 - [A Gentleman in Moscow](https://www.amazon.com/A-Gentleman-in-Moscow/dp/0143110438/ref=sr_1_2?keywords=A+gentleman+in+Moscow&qid=1580758070&s=books&sr=1-2)
 

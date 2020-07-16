@@ -31,7 +31,7 @@ Work through each course recommended for a CS self learning progression. While w
 
 **Video Lecture:** [Brian Harvey’s Berkeley CS 61A](https://www.youtube.com/watch?v=4leZ1Ca4f0g)
 
-**Status:** Enrolled
+**Status:** In Process
 
 --------
 
