@@ -34,4 +34,5 @@
 
     *interpreter runs in a read-eval-print loop.*
 
-    
+
+- **07/20/20 Night's Reflection:** Worked through the exercises. Mainly took time figuring out how to run Scheme files and get results. Finally got there. After that it was fun writing up some of the stuff. The terminiology is stuff I'll struggle with but I need to just keep having fun with it.
