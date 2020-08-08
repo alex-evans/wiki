@@ -1,14 +1,14 @@
 # Read / Listened 
 *(Some are Attempted)*
 
-
 ## Currently Reading
-- [Patterns for Managing Source Code Branches]()
+- [Developer Hegemony](https://www.amazon.com/Developer-Hegemony-Erik-Dietrich/dp/0692866809)
 - [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c9229d8c79cf8044b3f467dcf7fc3354)
 - [A Gentleman in Moscow](https://www.amazon.com/A-Gentleman-in-Moscow/dp/0143110438/ref=sr_1_2?keywords=A+gentleman+in+Moscow&qid=1580758070&s=books&sr=1-2)
 
 
 ## 2020
+- [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
 - [Start Marketing The Day You Start Coding](https://robwalling.com/)
 - [Becoming a Better Programmer](https://play.google.com/books/reader?id=zd1jJgAAAEAJ&pg=GBS.PA1)
 - [Refactoring: Improving the Design of Existing Code](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=503f5f6539e7c33836f1f848b424295f)
