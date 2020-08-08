@@ -1,4 +1,4 @@
-```
+``` javascript
 class DisplayMessages extends React.Component {
   constructor(props) {
     super(props);
@@ -51,7 +51,7 @@ class DisplayMessages extends React.Component {
 **Ternary operator:** `(condition ? expressionIfTrue : expressionIfFalse)`
 
 ## Example (map / filter and full component using state)
-```
+``` javascript
 class MyComponent extends React.Component {
   constructor(props) {
     super(props);

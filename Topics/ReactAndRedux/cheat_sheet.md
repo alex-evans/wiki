@@ -1,3 +1,4 @@
+``` javascript
 // define ADD, addMessage(), messageReducer(), and store here:
 const ADD = 'ADD'
 
@@ -20,3 +21,4 @@ const messageReducer = (prevState = [], action) => {
 }
 
 const store = Redux.createStore(messageReducer);
+```
