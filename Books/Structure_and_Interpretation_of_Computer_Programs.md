@@ -2,10 +2,10 @@
 ![](https://images-na.ssl-images-amazon.com/images/I/41RJ4IO1HRL._SX343_BO1,204,203,200_.jpg)
 
 ## Status
-**Reading**
+**Paused**
 
 ## Recap
-
+Taking a pause from this book. Got about a 1/3rd of the way through and just wasn't gaining much more from it. I was reading the words but was losing the enthusasim of digging through it. It was fun to get a feel of Lisp and run some code with that but after talking to others I decided to put this book back on the shelf. I'll dive deeper into something that doesn't take me too far down the academic path and that I'll gain more from.
 
 ## Notes
 - **07/15/20 Night's Reflection:** Start of the book and I like the feel of the book but it's hard not to look over the fact that it will be a beast of a book to get through. So we will see. At least it appears to be well written. I liked the tying of writing programs as writing sorcery. It's a good mental image while coding, makes it fun and I think that's the opening point that this should be fun but we should keep getting stronger with what we make and become. The using of Lisp hit me as surprising but I have to remind myself this is an older book and also that it's good to pickup new languages and see what they are like. My tired brain may not be able to absorb much these days but at least I'll get a feel of this stuff.
