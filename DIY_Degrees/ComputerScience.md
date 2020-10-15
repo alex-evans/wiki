@@ -8,6 +8,7 @@ Inspired by [Teach Yourself Computer Science](https://teachyourselfcs.com/) this
     - Sansoro Health / Datica
     - Vida
 - [freeCodeCamp](https://www.freecodecamp.org/)
+- [Personal Coding Portfolio](alex-evans.dev)
 
 ## Plan
 Work through each course recommended for a CS self learning progression. While working through it I will write my notes on what I'm learning and at the end I'll write up a summary of what I learned. I'll keep everything under the CS_Degree Wiki page.
@@ -31,7 +32,7 @@ Work through each course recommended for a CS self learning progression. While w
 
 **Video Lecture:** [Brian Harvey’s Berkeley CS 61A](https://www.youtube.com/watch?v=4leZ1Ca4f0g)
 
-**Status:** In Process
+**Status:** Done - was an intro into Lisp and stopped about a 1/3rd of the way through it. Will get a deeper dive by going through the Cracking the Coding Interview book which will give me a solid base of what it means to be a CS major and what is expected of it.
 
 --------
 
@@ -58,7 +59,7 @@ Work through each course recommended for a CS self learning progression. While w
 
 **Video Lecture:** [Tom Leighton’s MIT 6.042J](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 
-**Status:** Enrolled
+**Status:** Skipped - Not necessary
 
 --------
 

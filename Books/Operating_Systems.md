@@ -4,4 +4,7 @@
 ## Status
 **Reading**
 
+## Notes
+- The running of a executable file by the OS is fascinating. Unix does the fork(), exec() and wait() steps. Where it forks it's self to create a new process and then executes the desired code which completely overwrites the current process' code / data and then it waits for the process to be done.
+
 ## Recap
