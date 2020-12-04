@@ -38,7 +38,7 @@ Rating:
         * Introduction into the scheduling process and techniques out there. Talked about two main approaches. Run the shortest job remaining (optimizes turnaround time) and alternate between all job (optimizes response time). These two approaches are trade offs of eachother. We will look into more realistic approaches next where the scheduler uses the past to determine what to do now.
 * 8 - Scheduling: The Multi-Level Feedback Queue
     * Summary: 
-        * Introduction in the 
+        * Introduction in the Multilevel feedback queue (MLFQ).
 * 9 - Scheduling: Proportional Share
 * 10 - Multiprocessor Scheduling (Advanced)
 * 11 - Summary Dialogue on CPU Virtualization
