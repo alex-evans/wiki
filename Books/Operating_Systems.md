@@ -15,18 +15,30 @@ Rating:
 
 ### Intro
 * 1 - A Dialogue on the Book
+    * Notes:
+        * Enjoyed the approach to make the topic fun / explain what the motivation is behind the book. Having a running dialog helped.
 * 2 - Introduction to Operating Systems
+    * Summary:
+        * History of the OS. 
 ### I Virtualization
 * 3 - A Dialogue on Virutalization
 * 4 - The Abstraction: The Process
+    * Summary:
+        * Intro to what a process is and how it runs. Going from Running --> Blocked --> Ready --> Running again by the CPU.
 * 5 - Interlude: Process API
+    * Summary:
+        * Introduction into the way Unix does a fork(), exec(), and wait() process creation.
 * 6 - Mechanism: Limited Direct Execution
-* 7 - Scheduling: Introduction
-* 8 - Scheduling: The Multi-Level Feedback Queue
     * Notes:
-        * alkjlk;jl;kasdj
+        * "Obtaining high performance while maintaining control is thus one of the central challenges in building an operation system."
+    * Summary:
+        * The OS "baby-proofs" it's runs of procedures. It runs the processes restricting what they can and can't do by putting it in "restricted" mode. It also sets interrupt timer so that it can keep an eye on the process and doesn't allow the process directly write anything on the hardware but abstracts that process away from it.
+* 7 - Scheduling: Introduction
+    * Summary:
+        * Introduction into the scheduling process and techniques out there. Talked about two main approaches. Run the shortest job remaining (optimizes turnaround time) and alternate between all job (optimizes response time). These two approaches are trade offs of eachother. We will look into more realistic approaches next where the scheduler uses the past to determine what to do now.
+* 8 - Scheduling: The Multi-Level Feedback Queue
     * Summary: 
-        * a;lsjlkjasdlj
+        * Introduction in the 
 * 9 - Scheduling: Proportional Share
 * 10 - Multiprocessor Scheduling (Advanced)
 * 11 - Summary Dialogue on CPU Virtualization
