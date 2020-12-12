@@ -46,3 +46,4 @@ It's the physical location of the server running the website. Usually hosting co
 (How does the internet work?)[https://roadmap.sh/guides/what-is-internet]
 (HTTP in depth)[https://kamranahmed.info/blog/2016/08/13/http-in-depth/]
 (How Browsers Work)[https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/]
+(DNS in One Picture)[https://roadmap.sh/guides/dns-in-one-picture]
