@@ -3,8 +3,10 @@
 
 ## Currently Reading
 - [Operating Systems](https://www.lulu.com/shop/remzi-arpaci-dusseau-and-andrea-arpaci-dusseau/operating-systems-three-easy-pieces-hardcover-v061/hardcover/product-21407078.html)
-- [A Curious Moon](https://bigmachine.io/products/a-curious-moon/)
 - [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338)
+
+## 2021
+- [A Curious Moon](https://bigmachine.io/products/a-curious-moon/)
 
 ## 2020
 - [Sid Meier's Memoir!: A Life in Computer Games](https://www.amazon.com/Sid-Meiers-Memoir-Computer-Games-dp-1324005874/dp/1324005874/ref=as_li_ss_tl?_encoding=UTF8&me=&qid=1583529382&linkCode=sl1&tag=tgl02-20&linkId=45084395472b4ef485eaffc363bd85db&language=en_US)
@@ -30,6 +32,8 @@
 - The Hitchhiker's Guide to Python
 - Python Testing with pytest
 
+    **Year Summary**
+    Spent the start of the year really focused on learning as much as I could about Docker and Python. This helped me a bit get over a lot of imposter syndrom I was dealing with in my new role. As the year progressed I switch more into what I see as improvements as a whole in software engineering and started to dive into some of the foundations of a computer science education books. I also sprinkled in some fun books to enjoy throughout the year. With being in lockdown for most of the year due to Covid the number of audio books shrunk greatly as I was no longer commuting to work and back every day. 
 
 ## 2019
 - Behind the Cloud: The Untold Story of How Salesforce.com Went from Idea to Billion-Dollar Company and Revolutionized an Industry
