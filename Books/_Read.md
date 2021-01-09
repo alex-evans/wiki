@@ -4,6 +4,7 @@
 ## Currently Reading
 - [Operating Systems](https://www.lulu.com/shop/remzi-arpaci-dusseau-and-andrea-arpaci-dusseau/operating-systems-three-easy-pieces-hardcover-v061/hardcover/product-21407078.html)
 - [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338)
+- [The British Are Coming](https://www.amazon.com/British-Are-Coming-Lexington-Revolution/dp/1627790438)
 
 ## 2021
 - [A Curious Moon](https://bigmachine.io/products/a-curious-moon/)
@@ -12,7 +13,6 @@
 - [Sid Meier's Memoir!: A Life in Computer Games](https://www.amazon.com/Sid-Meiers-Memoir-Computer-Games-dp-1324005874/dp/1324005874/ref=as_li_ss_tl?_encoding=UTF8&me=&qid=1583529382&linkCode=sl1&tag=tgl02-20&linkId=45084395472b4ef485eaffc363bd85db&language=en_US)
 - [Developer Hegemony](https://www.amazon.com/Developer-Hegemony-Erik-Dietrich/dp/0692866809)
 - [A Gentleman in Moscow](https://www.amazon.com/A-Gentleman-in-Moscow/dp/0143110438/ref=sr_1_2?keywords=A+gentleman+in+Moscow&qid=1580758070&s=books&sr=1-2)
-- [The British Are Coming](https://www.amazon.com/British-Are-Coming-Lexington-Revolution/dp/1627790438)
 - [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c9229d8c79cf8044b3f467dcf7fc3354)
 - [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
 - [Start Marketing The Day You Start Coding](https://robwalling.com/)

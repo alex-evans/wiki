@@ -68,7 +68,7 @@ Work through each course recommended for a CS self learning progression. While w
 
 **Video Lecture:** [Berkeley CS 162](https://www.youtube.com/watch?v=itfEcA3TXq4&list=PLIMsSuI81pxq7c91oQMpmXgmGICbuDA_c)
 
-**Status:** Enrolled
+**Status:** In Progress
 
 --------
 
