@@ -38,8 +38,15 @@ Rating:
         * Introduction into the scheduling process and techniques out there. Talked about two main approaches. Run the shortest job remaining (optimizes turnaround time) and alternate between all job (optimizes response time). These two approaches are trade offs of eachother. We will look into more realistic approaches next where the scheduler uses the past to determine what to do now.
 * 8 - Scheduling: The Multi-Level Feedback Queue
     * Summary: 
-        * Introduction in the Multilevel feedback queue (MLFQ).
+        * Introduction in the Multilevel feedback queue (MLFQ). The determiniation by the operating system on what process to run and for how long is a difficult one. It also requires giving full focus of the CPU to the process which blocks anything else. This is why they shift quickly between processes which makes the user never know things are shifting. This is a recap of previous chapters. As for this chapter the MLFQ is still an art by the operating system in which it goes with certain rules and asks for "advice" from the user on what should be run. The brillance is creating queues that a process moves down in as it becomes less important / not finishing but it also keeps track of how long an individual process runs in a queue overall (not just in it's quick burst of time). This allows it to avoid gaming the system. Here are the rules that were settled on:
+            - *Rule 1:* If Priority(A) > Priority(B), A runs (B doesn't)
+            - *Rule 2:* If Priority(A) = Priority(B), A & B run in round-robin fashion using the time slice (quantum length) of the given queue.
+            - *Rule 3:* When a job enters the system, it is placed at the highest prioirty (the topmost queue)
+            - *Rule 4:* Once a job uses up its time allotment at a given level (regardless of how many times it has given up the CPU), its priority is reduced (i.e., it moves down one queue).
+            - *Rule 5:* After some time period S, move all the jobs in the system to the topmost queue. (This avoids any jobs just never ever being run)
 * 9 - Scheduling: Proportional Share
+    * Summary:
+        * 
 * 10 - Multiprocessor Scheduling (Advanced)
 * 11 - Summary Dialogue on CPU Virtualization
 * 12 - A Dialogue on Memory Virtualization
