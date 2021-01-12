@@ -46,11 +46,18 @@ Rating:
             - *Rule 5:* After some time period S, move all the jobs in the system to the topmost queue. (This avoids any jobs just never ever being run)
 * 9 - Scheduling: Proportional Share
     * Summary:
-        * 
+        * Learned a few more scheduling methods. Was fasinated by the lottery system which at first glance doesn't seem like something you'd want to do but I was blown away at how simple it would be to implement and I feel that is undervalued most of the time. Giving each process a # of tickets and just randomly picking a number to determine who gets resources. I wonder if a lot of this could be studied outside of software development and more into resource management in the world. How do you decide what kid gets to do the dishes tonight, use a lottery but make sure someone isn't just always unlucky (maybe weight it by age). The Linux example given was a bit beyond me with some deeper math that my tired brain does not seem to be grasping currently but it appears to make sense.
 * 10 - Multiprocessor Scheduling (Advanced)
+    * TODO: The book recommends coming back to this chapter after finishing Concurrency, if I remember I will.
 * 11 - Summary Dialogue on CPU Virtualization
+    * Summary:
+        * Nice summary dialogue of what has been learned. We needed an intro into how the OS works (the code and how it gives some power to a procesor but is highly paranoid). 
 * 12 - A Dialogue on Memory Virtualization
+    * Summary:
+        * On to Memory Virtualization...
 * 13 - The Abstraction: Address Spaces
+    * Summary:
+        * Good introduction into the challenges / goals the OS has with memory. It has to virtualize the memory to make programs / users believe everything is ordered and easy to deal with and that they have a secure private piece of memory on the system just for them, when in realitiy it is just a pointer to some other spot, it's an illusion.
 * 14 - Interlude: Memory API
 * 15 - Mechanism: Address Translation
 * 16 - Segmentation
