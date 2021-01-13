@@ -59,7 +59,11 @@ Rating:
     * Summary:
         * Good introduction into the challenges / goals the OS has with memory. It has to virtualize the memory to make programs / users believe everything is ordered and easy to deal with and that they have a secure private piece of memory on the system just for them, when in realitiy it is just a pointer to some other spot, it's an illusion.
 * 14 - Interlude: Memory API
+    * Summary:
+        * Quick little chapter on the process of getting and releasing memory. Didn't feel like it really belonged in this book but the chapter is called Interlude for a reason I guess. It gives a nice little talk on what programmers may run into with memory.
 * 15 - Mechanism: Address Translation
+    * Summary:
+        *
 * 16 - Segmentation
 * 17 - Free-Space Management
 * 18 - Paging: Introduction
