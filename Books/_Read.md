@@ -5,6 +5,7 @@
 - [Operating Systems](https://www.lulu.com/shop/remzi-arpaci-dusseau-and-andrea-arpaci-dusseau/operating-systems-three-easy-pieces-hardcover-v061/hardcover/product-21407078.html)
 - [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338)
 - [The British Are Coming](https://www.amazon.com/British-Are-Coming-Lexington-Revolution/dp/1627790438)
+- [Flow Architectures](https://www.amazon.com/dp/1492075892/ref=cm_sw_r_cp_api_glc_fabc_nrIaGb48NX1QG)
 
 ## 2021
 - [A Curious Moon](https://bigmachine.io/products/a-curious-moon/)
