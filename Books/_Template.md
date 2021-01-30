@@ -2,11 +2,17 @@
 ![]()
 
 Author:
+
 Date Finished: 
+
 Genres:
+
 Notes Status: 
+
 Quick Description: 
+
 Rating: 
+
 
 ## Why am I reading this book?
 
