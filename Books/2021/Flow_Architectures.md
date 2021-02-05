@@ -32,6 +32,9 @@ I initially got this book thinking it'll help with the API work I was doing with
         - Kind of disappointing but he's talking about a middle layer between the publisher and consumer to handle the stream of data. It's almost that FHIR engine inbetween the health data producer and the consumers. Maybe what he is describing is just a natural progression of when protocols are established eventually the water settles on a single agreed upon communication method and that's what is used. For us this means using this today may not be possible unless we built those middle tools which would be more work on top of building everything else. This may mean this is something to lear from and think about but not something worth diving into today. Instead stick with REST and whatever API consumption is desired by the customer.
 
 - Flow and Event-Driven Architectures
+    - Thoughts: 
+        - He does a good job laying out what the struggle is with REST. The consumer of the data has to constantly ping to see if there is new data. This makes real time not truly possible. Event Driven architectures make a lot of sense and now I'm wondering if the publisher subscriber setup being used in places is actually the way to go and Flow is just a step farther where a common middle mand controls that flow of data.
+
 - The Ancestores of Flow
 - Code and Flow
 - The Chapters Ahead
