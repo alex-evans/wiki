@@ -47,7 +47,7 @@ As my work and everything is becoming more involved with the Cloud it would be g
 - **Summary**
 
 *My Recap / Thoughts:*
-- 
+- Recap of what containers are and how they compare to VMs. Good to get a sense of the different terminology around the Serverless computing and FaaS (Functions as a Service). I didn't fully grasp the point on the Serverless does not just mean FaaS. I think it was pushing that you could still use containers in a serverless world or there were options on what to do for that. Really this was just a starting point for understanding some of the topics that will be diving into deeper.
 
 ### 3. Designing Cloud Native Applications
 - Fundamentals of Cloud Native Applications
