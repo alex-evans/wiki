@@ -22,8 +22,10 @@ As I get deeper into a software senior engineer role I need to improve upon my u
 Just an intro into the book and how he went about coming up with the content. It is interesting that he kind of used his class to experiment on and find out what design works. Classic teacher who never stops learning. I think one major thing to pull is that you learn a ton from reading other people's code. That is something I am missing currently as I am mainly dealing with my code. 
 
 ### Chapter 2 - The Nature of Complexity
+Complexity is very bad and isn't limited to massive applications. Even small bits of code can by complex (in fact some times the less code the more complex). A big point at the end of this chapter is that complexity doesn't just suddenly occur. It's added incrementally and over time software becomes a mess to understand and change. It needs to be a focus the entire time and always improved upon.
 
 ### Chapter 3 - Working Code Isn't Enough
+
 
 ### Chapter 4 - Modules Should Be Deep
 
