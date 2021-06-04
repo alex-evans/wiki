@@ -7,7 +7,7 @@ Date Finished:
 
 Genres: Tech, Cloud
 
-Notes Status: In Progress
+Notes Status: Done
 
 Quick Description: Using Containers, Functions, and Data to Build Next-Generation Applications
 
@@ -83,7 +83,7 @@ As my work and everything is becoming more involved with the Cloud it would be g
 - **Summary**
 
 *My Recap / Thoughts:*
-- 
+- This chapter gave a lot of information. It through out names and topics as a way to make the reader aware of these things and a little background on each. It felt like a lot and the example at the end was nice to see but also by that point my brain was needing to just get through the chapter. A lot of what was discussed was review from my understanding of the Cloud which is nice. It gave me the terminology to use and made me aware of the importance of certain decisions. Hopefully moving forward here it will start to give more context around a lot of these topics. I think my main pull away from this chapter is designing a cloud application requires truly understanding where your application is going to go in the future. A lot of the decisions are going to stick with you. Luckily I'm sure there are tons of real world examples out there if I needed to draw upon some to make a decision.
 
 ### 4. Working with Data
 - Data Storage Systems
@@ -291,5 +291,5 @@ As my work and everything is becoming more involved with the Cloud it would be g
 
 
 ## Summary
-
+Enjoyed the book. Started to just read through it while putting Graham to bed and didn't really get to take the notes here I was hoping. Some timely things to think about as my company dives into going to the cloud with a lot of our stuff.
 
