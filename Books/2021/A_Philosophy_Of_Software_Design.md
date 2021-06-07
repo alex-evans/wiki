@@ -28,8 +28,10 @@ Complexity is very bad and isn't limited to massive applications. Even small bit
 Focusing on design early and often will take a bit more time on development but will pay off over time. When you focus solely on fixing the bug at hand or adding a feature as fast as possible with little to no regard to future work / complexity, you are hurting your future self for quick gains. I've seen this a lot with both startups I've been a part of and I think one thing this book doesn't fully touch on is it is also due to lack of developer experience / skill. I know I wasn't aware how to clean up some code when I first started with development and focused solely on how I could add my stuff without breaking anything (smallest changes as possible). This meant no clean up, just fix quickly for now. This was escpecially true at Meditech where there were no automated testing and we just wanted to always limit our code impact as much as possible. Taking the time early and often to think of software design is extremely important.
 
 ### Chapter 4 - Modules Should Be Deep
+At first I was confused by the term Deep Modules. I thought big modules would make things more complexed. And then the book explains why suffereing from "classitist" is a bad thing. Having a bunch of small modules that all expose interfaces increases complexity, not decreases. Yes you want components in your system but to a point where it makes sense and if you can hide a lot of complexity behind interfaces where people don't need to know all the things happening under the hood in order to call your module (Note you might be yourself calling the module but you still have to remember what it does) the better. This was a bit eye opening for me but a really good chapter. The image he provides for the difference between deep and shallow interfaces as rectangles that show functionality vs interface sizes was really good. I'll try to keep this in mind moving forward and gave me some thoughts on how to refactor current work items.
 
 ### Chapter 5 - Information Hiding (and Leakage)
+
 
 ### Chapter 6 - General-Purpose Modules are Deeper
 
