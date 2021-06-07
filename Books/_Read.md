@@ -2,20 +2,18 @@
 *(Some are Attempted)*
 
 ## Currently Reading
-- [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
-- [The Autobiography of Malcolm X](https://www.amazon.com/gp/product/0345350685/ref=dbs_a_def_rwt_hsch_vapi_tpbk_p1_i0)
+- [The British Are Coming](https://www.amazon.com/British-Are-Coming-Lexington-Revolution/dp/1627790438)
+- [The Autobigraphy of Malcolm X](https://www.amazon.com/gp/product/0345350685/ref=dbs_a_def_rwt_hsch_vapi_tpbk_p1_i0)
 - [False Gods](https://www.amazon.com/dp/1849707464?psc=1&smid=ATVPDKIKX0DER&ref_=chk_typ_imgToDp)
-- [A Course Called America - Fifty States, Five Thousand Fairways, and the Search for the Great American Golf Course](https://www.amazon.com/Course-Called-America-Thousand-Fairways/dp/1982128054)
 
 ## 2021
 - [A Curious Moon](https://bigmachine.io/products/a-curious-moon/)
 - [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 - [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338)
+- [Cloud Native](https://www.oreilly.com/library/view/cloud-native/9781492053811/)
+- [Operating Systems](https://www.lulu.com/shop/remzi-arpaci-dusseau-and-andrea-arpaci-dusseau/operating-systems-three-easy-pieces-hardcover-v061/hardcover/product-21407078.html)
 - [Horus Rising](https://www.amazon.com/Horus-Rising-Heresy-Dan-Abnett/dp/1849707448)
 - [Flow Architectures](https://www.amazon.com/dp/1492075892/ref=cm_sw_r_cp_api_glc_fabc_nrIaGb48NX1QG)
-- [Operating Systems](https://www.lulu.com/shop/remzi-arpaci-dusseau-and-andrea-arpaci-dusseau/operating-systems-three-easy-pieces-hardcover-v061/hardcover/product-21407078.html)
-- [Cloud Native](https://www.oreilly.com/library/view/cloud-native/9781492053811/)
-- [The British Are Coming](https://www.amazon.com/British-Are-Coming-Lexington-Revolution/dp/1627790438)
 
 ## 2020
 - [Sid Meier's Memoir!: A Life in Computer Games](https://www.amazon.com/Sid-Meiers-Memoir-Computer-Games-dp-1324005874/dp/1324005874/ref=as_li_ss_tl?_encoding=UTF8&me=&qid=1583529382&linkCode=sl1&tag=tgl02-20&linkId=45084395472b4ef485eaffc363bd85db&language=en_US)

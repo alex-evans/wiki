@@ -115,4 +115,4 @@ Rating:
 
 
 ## Summary
-
+Putting a long term stop into reading this book. Really interesting stuff and I'm happy digging into the guts of how the computer I spend all day long on actually takes the commands I'm typing and interacts with them along with determining how to run my routines. I want to get back to it some day but for now I've put it on too long of a pause to technically keep it in an in progress status.
