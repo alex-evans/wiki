@@ -25,7 +25,7 @@ Just an intro into the book and how he went about coming up with the content. It
 Complexity is very bad and isn't limited to massive applications. Even small bits of code can by complex (in fact some times the less code the more complex). A big point at the end of this chapter is that complexity doesn't just suddenly occur. It's added incrementally and over time software becomes a mess to understand and change. It needs to be a focus the entire time and always improved upon.
 
 ### Chapter 3 - Working Code Isn't Enough
-
+Focusing on design early and often will take a bit more time on development but will pay off over time. When you focus solely on fixing the bug at hand or adding a feature as fast as possible with little to no regard to future work / complexity, you are hurting your future self for quick gains. I've seen this a lot with both startups I've been a part of and I think one thing this book doesn't fully touch on is it is also due to lack of developer experience / skill. I know I wasn't aware how to clean up some code when I first started with development and focused solely on how I could add my stuff without breaking anything (smallest changes as possible). This meant no clean up, just fix quickly for now. This was escpecially true at Meditech where there were no automated testing and we just wanted to always limit our code impact as much as possible. Taking the time early and often to think of software design is extremely important.
 
 ### Chapter 4 - Modules Should Be Deep
 
@@ -69,6 +69,7 @@ Complexity is very bad and isn't limited to massive applications. Even small bit
 ## Great quotes
  - "Your job as a developer is not just to create code that you can work with easily, but to create code that others can also work with easily." - pg6
  - "One of the most important goals of good design is for a system to be *obvious*." - pg9
+ - "The first step towards becoming a good software designer is to realize that **working code isn't enough**. - pg14
 
 ## Actionable items
 
