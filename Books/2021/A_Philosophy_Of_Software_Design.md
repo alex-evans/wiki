@@ -71,7 +71,8 @@ At first I was confused by the term Deep Modules. I thought big modules would ma
 ## Great quotes
  - "Your job as a developer is not just to create code that you can work with easily, but to create code that others can also work with easily." - pg6
  - "One of the most important goals of good design is for a system to be *obvious*." - pg9
- - "The first step towards becoming a good software designer is to realize that **working code isn't enough**. - pg14
+ - "The first step towards becoming a good software designer is to realize that **working code isn't enough**." - pg14
+ - "When designing modules, focus on the knowledge that's needed to perform each task, not the order in which tasks occur." - pg32
 
 ## Actionable items
 
