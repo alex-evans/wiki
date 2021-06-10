@@ -40,6 +40,7 @@ This is exactly opposite of what I have been taught but it makes a lot of sense 
 I think I understand this chapter and it probably points to some of my problems with current projects I've developed. Focus should be placed on building a solution with layers of abstraction. Each layer is focused on doing specific types of things. You need to avoid creating similar methods that are in the same layer that don't actually do anything (pass things on). One piece that he really hits on at the end of this chapter is something I have seen a lot of with work, the pass through variables problem. Variable A is set and then passed on through multiple functions before it is finally used. There is no easy solution to this but it should be tried to avoid. The code at work we have tried to fix this with the suggestion he has in using a context class (Report Class in work code). Need to be careful though as I think we have hit what he warns about where the context class just becomes a grab bag of variables. Need to think about is there a better logical spot or are they truly needed and how to group them if they are.
 
 ### Chapter 8 - Pull Complexity Downwards
+Pain now saves later. Pulling complexity downwards into the code you're working with save effort understanding it's intentions and removes pain for others using it. A great example that plagues software development these days are configuration parameters. Taking the easy way out to a decision is to just paramertize it, force the user or implementor to make the decision. It's easy to fool yourself into thinking that's what is best as the user will know better but really it forces a lot of decisions on the user that usually they have no idea or adds to complexity. Including it adds the need to document the parameter and explain what it does, and that usually goes out of date instantly and is often wrong. Do the work upfront.
 
 ### Chapter 9 - Better Together Or Better Apart?
 
@@ -75,6 +76,7 @@ I think I understand this chapter and it probably points to some of my problems 
  - "One of the most important goals of good design is for a system to be *obvious*." - pg9
  - "The first step towards becoming a good software designer is to realize that **working code isn't enough**." - pg14
  - "When designing modules, focus on the knowledge that's needed to perform each task, not the order in which tasks occur." - pg32
+ - "it is more important for a module to have a simple interface than a simple implementation." - pg55
 
 ## Actionable items
 

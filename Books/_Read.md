@@ -2,11 +2,13 @@
 *(Some are Attempted)*
 
 ## Currently Reading
-- [The British Are Coming](https://www.amazon.com/British-Are-Coming-Lexington-Revolution/dp/1627790438)
 - [The Autobigraphy of Malcolm X](https://www.amazon.com/gp/product/0345350685/ref=dbs_a_def_rwt_hsch_vapi_tpbk_p1_i0)
 - [False Gods](https://www.amazon.com/dp/1849707464?psc=1&smid=ATVPDKIKX0DER&ref_=chk_typ_imgToDp)
+- [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
+- [A Course Called America](https://www.amazon.com/Course-Called-America-Thousand-Fairways/dp/1982128054)
 
 ## 2021
+- [The British Are Coming](https://www.amazon.com/British-Are-Coming-Lexington-Revolution/dp/1627790438)
 - [A Curious Moon](https://bigmachine.io/products/a-curious-moon/)
 - [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 - [Ready Player Two](https://www.amazon.com/Ready-Player-Two-Ernest-Cline/dp/1524761338)
