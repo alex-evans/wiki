@@ -43,12 +43,16 @@ I think I understand this chapter and it probably points to some of my problems 
 Pain now saves later. Pulling complexity downwards into the code you're working with save effort understanding it's intentions and removes pain for others using it. A great example that plagues software development these days are configuration parameters. Taking the easy way out to a decision is to just paramertize it, force the user or implementor to make the decision. It's easy to fool yourself into thinking that's what is best as the user will know better but really it forces a lot of decisions on the user that usually they have no idea or adds to complexity. Including it adds the need to document the parameter and explain what it does, and that usually goes out of date instantly and is often wrong. Do the work upfront.
 
 ### Chapter 9 - Better Together Or Better Apart?
+This one came down to a lot of as experience grows you start to learn what works best. Try to pull together things that make sense together and makes the interface as easy as possible while hiding complexity that isn't needed to be seen by the user.
 
 ### Chapter 10 - Define Errors Out Of Existence
+Exceptions are usually to handle special cases. They add a ton of code that is rarely run and hard to maintain, adding complexity. To solve this write your code in a way where those exceptions are no longer needed. Make it impossible to get into the special case scenario instead of trying to handle the special case. When all else fails, just error out. Don't get too crazy with exceptions.
 
 ### Chapter 11 - Design it Twice
+Short chapter with a solid point. Take time with determining your design. Don't always go with your first idea. Take an hour or two and think of another possibility for the design. Compare the two designs and point out pros and cons of each. Even if it's obvious which on is better this will only strengthen your confidence and understanding of your idea.
 
 ### Chapter 12 - Why Write Comments? The Four Excuses
+Really a solid argument on why to write comments. I embarrasingly was in the camp that good code should be self documenting and that comments just get in the way / confuse people. He tore that thought apart by pointing out that what I'm really saying is someone in order to understand my code should read all my code and also know what I was thinking at the time I was coding things. It also causes my code to become small functions that increases complexity in order to try and show what I was coding. Instead a great approach is just use some comments to explain your thinking to keep interfaces small and the methods deeper.
 
 ### Chapter 13 - Comments Should Describe Things that Aren't Obvious from the Code
 
@@ -77,6 +81,8 @@ Pain now saves later. Pulling complexity downwards into the code you're working 
  - "The first step towards becoming a good software designer is to realize that **working code isn't enough**." - pg14
  - "When designing modules, focus on the knowledge that's needed to perform each task, not the order in which tasks occur." - pg32
  - "it is more important for a module to have a simple interface than a simple implementation." - pg55
+ - "The overall idea behind comments is to capture information that was in the mind of the designer but couldn't be represented in the code." - pg98
+
 
 ## Actionable items
 
