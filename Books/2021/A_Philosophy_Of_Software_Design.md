@@ -55,6 +55,7 @@ Short chapter with a solid point. Take time with determining your design. Don't 
 Really a solid argument on why to write comments. I embarrasingly was in the camp that good code should be self documenting and that comments just get in the way / confuse people. He tore that thought apart by pointing out that what I'm really saying is someone in order to understand my code should read all my code and also know what I was thinking at the time I was coding things. It also causes my code to become small functions that increases complexity in order to try and show what I was coding. Instead a great approach is just use some comments to explain your thinking to keep interfaces small and the methods deeper.
 
 ### Chapter 13 - Comments Should Describe Things that Aren't Obvious from the Code
+A really big point in this chapter that I feel I need to take to my code is the interface comments should focuse on what information is needed to make the method work, not how it works.
 
 ### Chapter 14 - Choosing Names
 
@@ -82,7 +83,7 @@ Really a solid argument on why to write comments. I embarrasingly was in the cam
  - "When designing modules, focus on the knowledge that's needed to perform each task, not the order in which tasks occur." - pg32
  - "it is more important for a module to have a simple interface than a simple implementation." - pg55
  - "The overall idea behind comments is to capture information that was in the mind of the designer but couldn't be represented in the code." - pg98
-
+ - "The only way to describe an abstraction is with comments. If you want code that presents good abstractions, you must document those abstractions with comments." - pg110
 
 ## Actionable items
 
