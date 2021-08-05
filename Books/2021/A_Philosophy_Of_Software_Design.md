@@ -3,15 +3,15 @@
 
 Author: John Ousterhout
 
-Date Finished: 
+Date Finished: 8/5/2021
 
 Genres: Software Design, Tech
 
-Notes Status: In Progress
+Notes Status: Done
 
 Quick Description: Leasons learned exploring the dos and don'ts of creating workable software.
 
-Rating: 
+Rating: A
 
 
 ## Why am I reading this book?
@@ -55,26 +55,49 @@ Short chapter with a solid point. Take time with determining your design. Don't 
 Really a solid argument on why to write comments. I embarrasingly was in the camp that good code should be self documenting and that comments just get in the way / confuse people. He tore that thought apart by pointing out that what I'm really saying is someone in order to understand my code should read all my code and also know what I was thinking at the time I was coding things. It also causes my code to become small functions that increases complexity in order to try and show what I was coding. Instead a great approach is just use some comments to explain your thinking to keep interfaces small and the methods deeper.
 
 ### Chapter 13 - Comments Should Describe Things that Aren't Obvious from the Code
-A really big point in this chapter that I feel I need to take to my code is the interface comments should focuse on what information is needed to make the method work, not how it works.
+A really big point in this chapter that I feel I need to take to my code is the interface comments should focus on what information is needed to make the method work, not how it works. The main trick is trying to approach the comments thinking as if you're someone looking at the code for the first time, what would you need to know so that what the code does is obvious. 
 
 ### Chapter 14 - Choosing Names
+Nothing too deep in this chapter. A major and underrated part of coding is determing names for variables. This chapter makes the statement that I agree with that using more descriptive names and spending a little extra time determining it will be a huge win in the long term. I didn't know that the Go community appears to go the opposite way in saying that shorter names are easier to ready and I can get their point if they have small Unix size functions. Which we already have seen this book argues against.
 
 ### Chapter 15 - Write the Comments First
+Writing the comments first is a design approach that has the added benefits of slowing you down to think through what you're planning to make and also in the end you have things documented. It's a good suggestion.
 
 ### Chapter 16 - Modifying Existing Code
+Skimming the chapters now but getting bits of it. This chapter makes sense that avoid the instinct to make code changes quick and fast to fix bugs / add features but instead truly understand the design. When fixing something take the time to think, can this design improve and then make the improvement.
 
 ### Chapter 17 - Consistency
+Pretty straight forward but a tough thing to follow, write code in a consistent manner. I think the big takeaway from this chapter is that avoid changing already existing code that is written in a consistent manner into a different manner that you feel is "better". Consistent code is far more important than trying to get everything to match your one specific approach. Make sure to get a feel of how the current code works and is written.
 
 ### Chapter 18 - Code Should be Obvious
+Interesting note on this chapter is his point about Event Driven architecture not being obvious. I agree with that and it's interesting that that architecture is growing. I get why it is and the benefits of it but wondering how complex certain applications will become if not properly documented.
 
 ### Chapter 19 - Software Trends
+This was a brain dump of thoughts on different topics but it was interesting to hear. I expecially liked hearing his points on Agile and Unit Tests. He pointed out something that I think a lot of developers have been struggling with. The agile sprints pushes the focus to much on small slices of code change. In theory it sounds great but it makes the code a mess as their is no time spent on overal design of the code. You end up with small changes throughout and that makes tactical coding instead of strategic. Incremental development is great but it should be with a design in mind and that should incrementally improve as well. The last point is that Unit Tests are great but Test Driven Development is not as that also pushes tactical coding.
 
 ### Chapter 20 - Designing for Performance
+Skipped through this chapter. Getting to the end of the book and this was a complex deep chapter that didn't catch my interest. Main point was simplicity and performance go together. You don't want to go overboard with focusing on performance as you build something but you also don't want to ignore it. It's finding that middle land where you keep it in mind but you also don't not make something because it needs to be perfect.
 
 ### Chapter 21 - Conclusion
+Nice summary of the book. Reiterated that the main goal is removing complexity. Everything described in the book is focused on making things simplier to understand and maintain. 
 
 ## Interesting thoughts
-
+It has a summary of design principles that is pretty good:
+1. Complexity is incremental: you have to sweat the small stuff.
+2. Working code isn't enough.
+3. Make continual small investments to improve system design.
+4. Modules should be deep.
+5. Interfaces should be designed to make the most common usage as simple as possible.
+6. It's more important for a module to have a simple interface than a simple implementation.
+7. General-purpose modules are deeper.
+8. Separate general-purpose and special-purpose code.
+9. Different layers should have different abstractions.
+10. Pull complexity downward.
+11. Define errors (and special cases) out of existence.
+12. Design it twice.
+13. Comments should describe things that are not obvious from the code.
+14. Software should be designed for ease of reading, not ease of writing.
+15. The increments of software development should be abstractions, not features.
 
 ## Great quotes
  - "Your job as a developer is not just to create code that you can work with easily, but to create code that others can also work with easily." - pg6
@@ -84,10 +107,14 @@ A really big point in this chapter that I feel I need to take to my code is the 
  - "it is more important for a module to have a simple interface than a simple implementation." - pg55
  - "The overall idea behind comments is to capture information that was in the mind of the designer but couldn't be represented in the code." - pg98
  - "The only way to describe an abstraction is with comments. If you want code that presents good abstractions, you must document those abstractions with comments." - pg110
+ - "If you're not making the design better, you're probably making it worse." - pg136
+ - "software should be designed for ease of reading, not ease of writing." - pg148
+ - "**Developing incrementally is generally a good idea, but the increments of development should be abstractions, not features.**"
+ - "The reward for being a good designer is that you get to spend a larger fraction of your time in the design phase, which is fun. Poor designers spend most of their time chasing bugs in complicated and brittle code." - pg170
 
 ## Actionable items
-
+- Write better comments and write them first
+- Focus on creating interfaces between things and methods that are deep (not just focusing on chopping everything up into little Unix style functions where things have one job)
 
 ## Summary
-
-
+Solid book. I learned a lot about how to approach Software design. For being a shortish book it went deep into topics. I highly enjoyed it. Main point of the book is on removing complexity and it talks about all sorts of ways to avoid complexity and make things simplier.
