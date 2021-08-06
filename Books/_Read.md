@@ -6,6 +6,7 @@
 - [A Course Called America](https://www.amazon.com/Course-Called-America-Thousand-Fairways/dp/1982128054)
 
 ## 2021
+- [On the Criteria To Be Used in Decomposing Systems into Modules](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
 - [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 - [False Gods](https://www.amazon.com/dp/1849707464?psc=1&smid=ATVPDKIKX0DER&ref_=chk_typ_imgToDp)
 - [The British Are Coming](https://www.amazon.com/British-Are-Coming-Lexington-Revolution/dp/1627790438)
