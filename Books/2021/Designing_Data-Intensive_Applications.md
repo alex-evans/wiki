@@ -22,7 +22,7 @@ Farther my understanding on how to build something that can scale. It's truly so
 ### Part I. Foundations of Data Systems
 
 #### 1. Reliable, Scalable, and Maintainable Applications
-Reliability - faults and failures are not the same thing. Faults are an error to one specific piece but a failure is the entire system stops working. You can build reliability by handling faults in a way that you avoid failures.
+This chapter focused on setting the foundation for the three main things focused on when building a system, reliability, scalability, and maintainability. Reliability - faults and failures are not the same thing. Faults are an error to one specific piece but a failure is the entire system stops working. You can build reliability by handling faults in a way that you avoid failures. Scalability - having a strategy to tackle performance when load increases. Maintainability - often the thing I am thinking about most but not the only thing to focus on, making sure code and architecture is built in a way where it can be updated and understood long term.
 
 #### 2. Data Models and Query Languages
 
