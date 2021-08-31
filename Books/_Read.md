@@ -4,10 +4,11 @@
 ## Currently Reading
 - [The Autobigraphy of Malcolm X](https://www.amazon.com/gp/product/0345350685/ref=dbs_a_def_rwt_hsch_vapi_tpbk_p1_i0)
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?dchild=1&keywords=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&qid=1592769521&s=books&sr=1-1)
-- [Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1623166051&sr=1-1)
-- [A Note on Distributed Computed](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.7969&rep=rep1&type=pdf)
+- [Big Med: Megaproviders and the High Cost of Health Care in America](https://www.amazon.com/Big-Med-Megaproviders-Health-America/dp/022666807X/ref=sr_1_4?dchild=1&keywords=big+med&qid=1623074109&sr=8-4)
 
 ## 2021
+- [Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1623166051&sr=1-1)
+- [A Note on Distributed Computed](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.7969&rep=rep1&type=pdf)
 - [A Course Called America](https://www.amazon.com/Course-Called-America-Thousand-Fairways/dp/1982128054)
 - [On the Criteria To Be Used in Decomposing Systems into Modules](https://www.win.tue.nl/~wstomv/edu/2ip30/references/criteria_for_modularization.pdf)
 - [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)

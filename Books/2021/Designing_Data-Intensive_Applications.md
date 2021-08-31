@@ -51,10 +51,11 @@ This chapter focused on setting the foundation for the three main things focused
 #### 12. The Future of Data Systems
 
 ## Interesting thoughts
-
+- Chapter 2 has a point where Document datamodels shouldn't be thought of as schemaless as they do usually have a schema that the application assumes. So instead they should be thought of as read time schema while databases that enforce schemas (SQL) can be thought of as write time schema.
 
 ## Great quotes
 - "...we can understand reliability as meaning, roughly, 'continuing to work correctly, even when things go wrong.'" pg6
+- "The limits of my language mean the limits of my world. - Ludwig Wittgenstein, Tractatus Logico-Pilosophicus (1922)" pg27
 
 ## Actionable items
 

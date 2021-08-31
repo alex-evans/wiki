@@ -21,6 +21,7 @@ Part of a list of papers I got that said every software engineer should read the
 ### Abstract
 
 ### 1. Introduction
+Just a level setting on the difference between local and distributed computing. Basically local is running everything on the same address space while distributed is you don't know if the machine is the same or some other address space. The article argues that architectures being built with the mindset of local only is destine to fail.
 
 ### 2. The Vision of Unified Objects
 
@@ -46,5 +47,4 @@ Part of a list of papers I got that said every software engineer should read the
 
 
 ## Summary
-
-
+Lost interest in this article. Seems to be a bit too deep into the weeds and written too uninteresting to catch my attention currently. Not going to dive through each point just to say I read it. Probably some good comments in there but overall at this point in time it wasn't for me.
