@@ -25,6 +25,7 @@ Main statement is that most policy and debate currently is focused on the wrong 
 No surprise but introduction chapter on what the book contains. Emphasized the problem, providers have gotten too big and our policy focus is on the wrong spot. These non-profit health systems have no reason not to enforce their power. A good point is the leaders of these health systems are probably hoping to provide health care at a lower cost but that's not their focus / they believe they can do that by gaining power. In the book it'll go through the history, how things got us to where they are, and then what is failing now, and finally into what we could do.
 
 ### 1: The Evolution of the Modern Hospital
+History of healthcare in the United States consists of Medical centers growing and hanging on to power of the health care delivery. Once they were established as the kings of the area they focused on how to keep it instead of improve it. Granted it was an interest of theirs to improve how they could but they put a lot of effort into making sure no threats to their pipeline of $$ was cut off. Lots of different attempts were made to either have new players enter the rhelm or government intervention to push for healthy more efficent populations but these all failed as they didn't solve the entire problem and the end result has been bigger and bigger health systems. 
 
 ### 2: From Hospital to Health System
 
@@ -53,7 +54,7 @@ No surprise but introduction chapter on what the book contains. Emphasized the p
 
 
 ## Great quotes
-
+- "Hospital rate setting gave payers their first taste of the balloon principle: if you squeeze one part of the health care spending balloon. Other pars expand." - Pg20
 
 ## Actionable items
 
