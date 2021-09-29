@@ -2,7 +2,20 @@
 
 * [The Different CTO Roles](https://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html) - Werner Vogels (Amazon CTO)
 
+    A good summary of the different types of CTOs. 
+    * **Infrastructure Manager** - think of big / established companies that add in a CTO to handle the IT side of the world
+
+    * **Technology Visionary and Operations Manager** - typical model seen these days I think where the dev/ops team reports up to the CTO
+    
+    * **External Facing Technologist** - kind of the nerd in the sales room / outside world. The guy that can come in and talk to the business to make the sale or be the face of the tech for the company.
+    
+    * **Big Thinker** - someone always focused on tech and where it is headed and how to handle that. 
+
+    It's fun to think through which one I'd prefer to be and also which one it'd be best to report to. 
+
 * [Is it required to be a developer to become a CTO?](https://www.quora.com/Is-it-required-to-be-a-developer-coder-to-become-a-CTO-Why-cant-an-architect-become-a-CTO) (Quora)
+
+    The short answer is yes, you should be a developer as a CTO but really that's just prepare you to be able to talk the lingo and understand things. If you're someone who can do that but hasn't offcially held a developer position then that's ok but I think it's those years of building products as a developer that gets you the understanding of what happens in the some times black box of software development. I don't believe the best developers make the best CTOs. It's probably actually the ok developers that make solid CTOs. 
 
 * [Three Golden Rules to Finding a CTO](https://www.rudebaguette.com/en/2011/12/three-golden-rules-to-finding-a-cto/)
 
