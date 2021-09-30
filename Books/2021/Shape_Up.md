@@ -35,12 +35,19 @@ This chapter gave some great ideas / approaches on how to shape a raw idea. It's
 I see this step as the let's take a step back and make sure we aren't missing anything (or more to the point, we don't have any major holes in our idea that couldn't be answered by the team in a time crunch). This is also a stage where you can bring in a technical person to just whiteboard the idea. Main thing again is to keep in mind this is still just a raw idea, nothing has been commited to and avoid going to deep into details with people. Keep everything high level. One good thing to do is write out what this idea is not.
 
 ### Chapter 6: Write the Pitch
+The final step in the shaping step is pulling everything together and creating a pitch. This can be an important step and also one I feel like takes time to understand how much time and detail to put into it. You would want to avoid having this become the perfect polished up product pitch as it's still in the idea phase and realistically you don't want people spending all their time working on a pitch. A template of sorts would be nice and the one this chapter gives on what is provided in a pitch would be a great way to start. It also would be cool to look into if we could use iPads or some method to get digital drawing easily into a document.
 
 **Part 2: Betting**
 ### Chapter 7: Bets, Not Backlogs
+Quick to the point chapter. Backlogs are not helpful to go over every iteration. They become a big list of nothing where you have to try to remember pieces about the items every time and context / motivation is lost on the item. On top of that time is wasted reviewing and keeping backlogs up to date on stuff that will never get done. It's comforting to have a backlog but it needs to be let go. It's not truly helping. Instead every 6 weeks have a conversation about ideas people are passionate about at the moment. If it is an old idea they will bring it back and improve upon it / push for it. I like this.
 
 ### Chapter 8: The Betting Table
+A lot packed into this chapter and probably one to reread after done with the book. It gets into the details of how this all works. The Betting Table is the key component. You bring a small group of true organization decision makers (C level and senior level but small small group). You go through the pitches that everyone is already aware of and you decide if you want to bet on them and which ones. This chapter also talks about the size of teams (small! one or two devs and a designer with an integration tester jumping around). It also hits on the thing I'm sure everyone thinks about, what about bugs! The point of the book is that bugs aren't for some reason more important than the projects. You'll never get anything new done if you have to fix the whole world first. The key here is there are two main agreements / rules: 
 
+1. You give teams uninterupted 6 weeks to work on their stuff. 
+2. Anything not done after 6 weeks is dropped at least one cycle to be reevaluated and pitched.
+
+I think both are powerful and extremly tough to do but if you do not commit to these rules the entire process breaks. They are the two important agreements that as a dev team / company need to fully buy in on.
 ### Chapter 9: Place Your Bets
 
 **Part3: Building**
@@ -62,7 +69,7 @@ I see this step as the let's take a step back and make sure we aren't missing an
 
 
 ## Great quotes
-
+- "You can't ship anything new if you have to fix the whole world first." - Chapter 8
 
 ## Actionable items
 
