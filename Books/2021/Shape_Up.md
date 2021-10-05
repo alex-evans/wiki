@@ -3,15 +3,15 @@
 
 Author: Ryan Singer
 
-Date Finished: 
+Date Finished: 10/5/21
 
 Genres: Tech, Project Management, Agile
 
-Notes Status: In Progress
+Notes Status: Done
 
 Quick Description: A look at how Basecamp builds software.
 
-Rating: 
+Rating: 9/10
 
 
 ## Why am I reading this book?
@@ -49,31 +49,45 @@ A lot packed into this chapter and probably one to reread after done with the bo
 
 I think both are powerful and extremly tough to do but if you do not commit to these rules the entire process breaks. They are the two important agreements that as a dev team / company need to fully buy in on.
 ### Chapter 9: Place Your Bets
+This was interesting. Depending on the status / maturity of a project (new or existing product) the bets can expect different endings. I think this makes sense and probably brings some real world element to all of this. You can't just assume each bet has the same outcome regardless if it's a new or old product. Old established products get the sort of bet you'd expect with the outcome of a cycle being the finished solution that was bet on but a new product goes through separate stages (R&D, Production, Cleanup). R&D you're learning, Production you're growing, and Cleanup well you're cleaning up the product. It was interesting also that cleanup is often more than just one cycle and is more of a what do we take out of the product stage. 
+
+After that it becomes what do we bet on and who is going to do it. It's interesting that Basecamp takes the approach of assigning projects to people and that people are not tied to the same team every cycle. 
 
 **Part3: Building**
 ### Chapter 10: Hand Over Responsibility
-
+The team starts to dive in. They are given the pitch or a version of the pitch that gives the details on what is the goal of the project. They are not given a list of tasks. Tasks are on the team to determine and use. There's a key piece of the project where everyone is diving into it but things are silent. It's important for a manager to trust the team and not start to ask how it's going to early. Let the team learn / get the lay of the land. Also as the team builds tasks they tend to start with imaginary tasks they think they will need to do and then it grows a ton more as they get their hands dirty into a real tasks. The only way to understand the tasks needed is to get your hands dirty and do the work.
 ### Chapter 11: Get One Piece Done
+Some just general key pieces to keep in mind when going through a 6 week cycle. You don't have a ton of time. Focus on a meaningful piece of the project that the team can get done in just a few days. This is a verticle slice of the project (not just a mock up of the front end or a stubbed out piece of the backend). I believe there's a lot of strength to this as it gives something for the team to push off of. We have this done, where do we go next. A good point towards the end the chapter made was make sure you also pick something where the team will learn the most possible. Don't just take on an easy piece that the team already knows how to do, tackle the hard piece first and see what you can learn.
 
 ### Chapter 12: Map the Scopes
+Starting into coding a solution you might have a general idea of how it divides up but it's very high level and unproven. As you get deeper into the code you start to really move things around and find the natural scope of what needs to be done. This helps explain progress on a solution and also keeps the team focused and motivated. Something the chapter points out that is a great thing to keep in mind, be weary of using just a grab bag / general description for a bunch of tasks (bugs, front end, back end). They don't truly tell you much about what is in the tasks that need to be done. I like the tip at the end of the chapter saying if you do have a few tasks that don't quite fit into a bucket or are "nice to haves" put a ~ in front of their description. Let's you know if there is time do this.
 
 ### Chapter 13: Show Progress
+This was an interesting solution to the how do we ask for status without interupting the team or making them do a lot of extra work. The hill concept is an interesting one and would take time to get it right but would be a cool thing to try out. Should look into trying it.
 
 ### Chapter 14: Decide When to Stop
+This is a difficult problem and the reason I feel like all teams I've been on struggle with scrum, the end dates are not true end dates. We always would run over or just say ok, this story will just bleed into the next sprint. So how do you know when to stop. I like the approach with the hill to climb and knowing where you are with a project and also the circuit breaker that everyone has to buy in on that if a project doesn't meet it's deadline it short circuits and doesn't go into the next cycle. Of course you have to be realistic with this stuff and on the rare occasion you let it flow into a new cycle or have ways to finish things in the cool down period but it is a good point that this should only be for projects that are on their way down the hill and shouldn't be a habit. If a project still has unknowns then it must go through the betting process again.
+
+I also liked the point on QA and dream of being in that position where the team can produce solid tested code for the main functionality and the QA person just tests the edge cases and looks for gotchas to solidify the product farther. I don't think I've ever seen that ability in practice but it's a good goal to hit for.
 
 ### Chapter 15: Move On
+Good point here. Don't overreact to initial feedback. Make sure to take that feedback and shape it into a pitch for the next betting table if needed but don't commit to anything right away. Take a cool down period and really focus in on what you're hearing and make a bet on where you want to go with the proper pitch.
 
 **Conclusion**
+Just a recap of everything that was in the book.
 
 ## Interesting thoughts
 
 
 ## Great quotes
 - "You can't ship anything new if you have to fix the whole world first." - Chapter 8
+- "The way to really figure out what needs to be done is to start doing real work." - Chapter 10
+- "We should question any new work that comes up before we accept it as necessary." - Chatper 14
+
 
 ## Actionable items
-
+- Present this to Benj and Todd and see if we can try a version of it
 
 ## Summary
-
+This ultimately may have been an advertisement for using Basecamp but I really liked their approach. Gave a great argument for doing something other than scrum that I hadn't heard out there in the wild being done. This is very intriguing. I like the shape up to betting table to how to get things done. Some great stuff in there. Looking forward to trying it.
 
