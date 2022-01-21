@@ -2,10 +2,13 @@
 *(Some are Attempted)*
 
 ## Currently Reading
-- [The Autobigraphy of Malcolm X](https://www.amazon.com/gp/product/0345350685/ref=dbs_a_def_rwt_hsch_vapi_tpbk_p1_i0)
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?dchild=1&keywords=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&qid=1592769521&s=books&sr=1-1)
 - [Big Med: Megaproviders and the High Cost of Health Care in America](https://www.amazon.com/Big-Med-Megaproviders-Health-America/dp/022666807X/ref=sr_1_4?dchild=1&keywords=big+med&qid=1623074109&sr=8-4)
-- [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup/webbook)
+- [Blondie24: Playing at the Edge of AI](https://www.amazon.com/Blondie24-Playing-Kaufmann-Artificial-Intelligence/dp/1558607838)
+- [Head First Go](https://www.amazon.com/Head-First-Go-Jay-McGavren/dp/1491969555)
+
+## 2022
+
 
 ## 2021
 - [Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1623166051&sr=1-1)
@@ -22,6 +25,12 @@
 - [Operating Systems](https://www.lulu.com/shop/remzi-arpaci-dusseau-and-andrea-arpaci-dusseau/operating-systems-three-easy-pieces-hardcover-v061/hardcover/product-21407078.html)
 - [Horus Rising](https://www.amazon.com/Horus-Rising-Heresy-Dan-Abnett/dp/1849707448)
 - [Flow Architectures](https://www.amazon.com/dp/1492075892/ref=cm_sw_r_cp_api_glc_fabc_nrIaGb48NX1QG)
+- [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup/webbook)
+- [The Autobigraphy of Malcolm X](https://www.amazon.com/gp/product/0345350685/ref=dbs_a_def_rwt_hsch_vapi_tpbk_p1_i0)
+- [The Cult of We](https://www.penguinrandomhouse.com/books/645810/the-cult-of-we-by-eliot-brown-and-maureen-farrell/)
+
+    **Year Summary**
+    Some fun years this year while also getting into some good technical items. I really enjoyed "A Philosophy of Software Design" as it got me thinking better about how to remove complexity from software I'm writing. Really made an impact on me and one of the few technical books I'll reread. Being it was year 2 of Covid and spent a lot of time at home but with kids constantly here and the stresses of life constantly being thrown at us it was an exhausting year where only a few pages of reading at night was what I could handle. Looking forward to normal years where consistent schedules and kids not home for 3+ weeks at a time while they are too young to handle their own needs and my wife and I trying to work around all that.
 
 ## 2020
 - [Sid Meier's Memoir!: A Life in Computer Games](https://www.amazon.com/Sid-Meiers-Memoir-Computer-Games-dp-1324005874/dp/1324005874/ref=as_li_ss_tl?_encoding=UTF8&me=&qid=1583529382&linkCode=sl1&tag=tgl02-20&linkId=45084395472b4ef485eaffc363bd85db&language=en_US)
