@@ -5,10 +5,9 @@
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?dchild=1&keywords=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&qid=1592769521&s=books&sr=1-1)
 - [Big Med: Megaproviders and the High Cost of Health Care in America](https://www.amazon.com/Big-Med-Megaproviders-Health-America/dp/022666807X/ref=sr_1_4?dchild=1&keywords=big+med&qid=1623074109&sr=8-4)
 - [Blondie24: Playing at the Edge of AI](https://www.amazon.com/Blondie24-Playing-Kaufmann-Artificial-Intelligence/dp/1558607838)
-- [Head First Go](https://www.amazon.com/Head-First-Go-Jay-McGavren/dp/1491969555)
 
 ## 2022
-
+- [Head First Go](https://www.amazon.com/Head-First-Go-Jay-McGavren/dp/1491969555)
 
 ## 2021
 - [Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1623166051&sr=1-1)
