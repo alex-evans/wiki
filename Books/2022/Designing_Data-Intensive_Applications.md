@@ -28,7 +28,7 @@ This chapter focused on setting the foundation for the three main things focused
 Took a walk through the different types of data models out there and gave a history on them. Settled on 3 main ones to be aware of (Relational, NoSQL, and Graph).
 
 #### 3. Storage and Retrieval
-
+This chapter took me awhile but covered some good topics. A lot of which I let go over my head but I did get a bit better understanding of how the different databases store and retrieve data. It gave me some more insight into how redis works which I only ever knew was a database that stayed in memory. It also got me to understand the difference between a traditional relational database and a data wearhouse. It got me thinking a lot about my works challenge of determining how to start storing huge amounts of data in a data lake.
 
 #### 4. Encoding and Evolution
 
