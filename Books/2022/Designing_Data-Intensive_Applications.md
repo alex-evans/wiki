@@ -31,6 +31,7 @@ Took a walk through the different types of data models out there and gave a hist
 This chapter took me awhile but covered some good topics. A lot of which I let go over my head but I did get a bit better understanding of how the different databases store and retrieve data. It gave me some more insight into how redis works which I only ever knew was a database that stayed in memory. It also got me to understand the difference between a traditional relational database and a data wearhouse. It got me thinking a lot about my works challenge of determining how to start storing huge amounts of data in a data lake.
 
 #### 4. Encoding and Evolution
+Something I hadn't thought much about before but this chapter spent some time on is the schema a database stores something in needs to be backwards and forwards compatiable. I've spent a lot of time with this thinking on APIs (mainly just the forward compatiablity, don't make breaking changes). With databases it's interesting / and a good rule, is the database will last longer than the code. That means it needs to be able to convert whatever it has stored back into whatever is requesting it for future use and then also still assume the old code will reference it. This chapter also got a bit into how distributed information is passed between locations and how the pub / sub setup works.
 
 ### Part II. Distributed Data
 
