@@ -36,9 +36,9 @@ Something I hadn't thought much about before but this chapter spent some time on
 ### Part II. Distributed Data
 
 #### 5. Replication
-
+Chapter focused on the different methods of ensuring data correctness and availablity by replicating the data entry and reads across multiple databases. There were surprisingly a lot of methods to do this and also surprisingly not a great solution around it. There has definitely been improvements over time and for the most part the methods of today are probably good enough but it's still interesting there is no perfect solution even after all of these years at least with the method of using replication.
 #### 6. Partitioning
-
+This got into how to spread data across multiple nodes to handle larger databases. Interesting stuff and ideas on how to do this. Basically you can go by a sorted key and a set of them lives in one node and another set in another or you can hash a key in some manner to allow for even distribution but tougher to find where everything is.
 #### 7. Transactions
 
 #### 8. The Trouble with Distributed Systems
