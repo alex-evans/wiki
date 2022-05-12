@@ -3,15 +3,15 @@
 
 Author: David Dranove, Lawton Robert Burns
 
-Date Finished: 
+Date Finished: 5/11/2022
 
 Genres: Health Care
 
-Notes Status: In Progress
+Notes Status: Done
 
 Quick Description: Health care in America is broken. This book examines why and possibly how it could be fixed.
 
-Rating: 
+Rating: 8/10
 
 
 ## Why am I reading this book?
@@ -61,5 +61,5 @@ Going to be reading this book before going to bed and so not going to give a cha
 
 
 ## Summary
-
+Book took me a long time to get through but I highly enjoyed it. I mainly enjoyed getting an understanding of how some of the big health systems formed, it really gave me a good history lesson on the industry. It also provided me an understanding of the interactions between Health Systems and Insurance Companies and the Government. They all seem to be pulling on each other. There are great lessons in there on how Health Systems are going to do what's best for them and how there is a hope that costs will drop if they get bigger but that also might not be the full goal or really all that much of a motivator. It is insteresting to learn of the interactions between health systems and physicians. Ultimately it appears the main way to drive down cost is to focus on the main controller of the costs, the physican's pen. Focus on how as a group we can determine the best direction on why lower costs may be good for all. It's a extreamly hard problem that isn't going to take a single magical solution. Instead it will take many different improvements over a lot of years and that's probably why it doesn't happen.
 
