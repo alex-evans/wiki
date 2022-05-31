@@ -4,11 +4,13 @@
 ## Currently Reading
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=sr_1_1?dchild=1&keywords=Designing+Data-Intensive+Applications+by+Martin+Kleppmann&qid=1592769521&s=books&sr=1-1)
 - [The Programmer's Brain](https://www.manning.com/books/the-programmers-brain)
+- [A Promised Land](https://www.amazon.com/Promised-Land-Barack-Obama/dp/1524763160)
 
 ## 2022
 - [Big Med: Megaproviders and the High Cost of Health Care in America](https://www.amazon.com/Big-Med-Megaproviders-Health-America/dp/022666807X/ref=sr_1_4?dchild=1&keywords=big+med&qid=1623074109&sr=8-4)
 - [Head First Go](https://www.amazon.com/Head-First-Go-Jay-McGavren/dp/1491969555)
 - [Blondie24: Playing at the Edge of AI](https://www.amazon.com/Blondie24-Playing-Kaufmann-Artificial-Intelligence/dp/1558607838)
+- [Phil: The Rip-Roaring (and Unauthorized!) Biography of Golf's Most Colorful Superstar](https://images-na.ssl-images-amazon.com/images/I/41AiDlTIkcL._SX329_BO1,204,203,200_.jpg)
 
 ## 2021
 - [Project Hail Mary](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1623166051&sr=1-1)
